@@ -18,11 +18,11 @@ li{
 }
 
 img {
-    width: 1150px;
+    width: 100%;
     height: 500px;
     /* glyph-orientation-horizontal: 0deg; */
-    /* object-fit: */
-    object-position:cover;
+    object-fit:cover;
+    /* object-position:cover; */
 }
 
 /* p{
